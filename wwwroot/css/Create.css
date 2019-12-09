@@ -1,0 +1,9 @@
+.images{
+    max-height: 300px;
+    max-width:100%
+}
+
+.imagesrow{
+    margin-left: -15px;
+    margin-right: -15px;
+}
